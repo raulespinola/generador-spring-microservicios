@@ -1,0 +1,32 @@
+{
+  "name": "generator-spring-microservices",
+  "version": "0.0.1",
+  "description": "Generador SpringBoot",
+  "files": [
+    "generators",
+    "app"
+  ],
+  "keywords": [
+    "yeoman-generator"
+  ],
+  "dependencies": {
+    "decamelize": "^4.0.0",
+    "uppercamelcase": "^3.0.0",
+    "yeoman-generator": "^4.9.0"
+  },
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Hello\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/raulespinola/generador-spring-microservicios.git"
+  },
+  "author": "Raul Espinola",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/raulespinola/generador-spring-microservicios/issues"
+  },
+  "homepage": "https://github.com/raulespinola/generador-spring-microservicios#readme"
+}
